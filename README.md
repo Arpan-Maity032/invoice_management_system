@@ -101,15 +101,3 @@
 | **HTTP Client** | Axios | Handling API requests (GET, POST, DELETE) |
 | **State Management** | React Hooks | `useState` for form data, `useEffect` for data fetching |
 
----
-
-<h2 style="color: #2E8B57; font-size: 2rem;">📂 Project Structure</h2>
-
-```bash
-src
- ├─ components
- │   └─ InvoiceDashboard.js  # Main dashboard component
- ├─ services
- │   └─ api.js               # Centralized Axios configuration
- ├─ App.js                   # Root component
- └─ index.js                 # Entry point
